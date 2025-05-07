@@ -3,7 +3,7 @@
 This project focuses on classifying different types of dry beans using machine learning models. The dataset is sourced from the UCI Machine Learning Repository, and various models have been trained and evaluated to predict the type of dry bean based on several features.
 
 ## Project Structure
-
+```
 DryBean-Classification/
 ├── notebooks/                # Jupyter notebooks for data preprocessing and model training
 │   ├── Preprocessing.ipynb   # Data preprocessing, cleaning, and feature engineering
@@ -15,7 +15,7 @@ DryBean-Classification/
 │   ├── LogisticRegression.ipynb # Logistic Regression classifier implementation
 │   └── Prediction.ipynb      # Model prediction and final evaluation
 └── README.md                 # Project description and instructions
-
+````
 
 ## Models Used
 
